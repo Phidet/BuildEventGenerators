@@ -296,7 +296,7 @@ $nl_specificEvent          ! any .true. in this namelist must be combines with s
 			               !		     	   for "no pions in the final state" events
       p_Xn_no_pi=.true.         ! specificEvent=2
       piplus=.true.             ! specificEvent=3
-      piplusMULTI=.true.        ! specificEvent=4
+      piplus_MULTI=.true.       ! specificEvent=4
       pi0=.true.                ! specificEvent=5
       pi0_MULTI=.true.          ! specificEvent=6
       piminus=.true.            ! specificEvent=7
